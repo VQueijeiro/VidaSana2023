@@ -1,0 +1,309 @@
+/* desktop */
+
+body {
+    background-color: #C7B299;
+    font-family: century Gothic;
+   
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  height: 8rem;
+}
+
+
+  
+  .menu li {
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 1.5rem;
+  }
+  
+  .menu li a {
+    text-decoration: none;
+  }
+  
+
+  .divCorazon{
+    display: flex;
+    align-items: center;
+    height: 10rem;
+  }
+
+header h1 {
+  color: white;
+  font-size: 5rem;
+  padding-left: 20rem;
+  
+}
+
+header h2{
+  color: white;
+  font-size: 5rem;
+  padding-left: 14rem;
+}
+
+/* .markTitle{
+  background-color: initial;
+  color: white;
+  font-size: 8rem;
+  padding-right: 2rem;
+  
+} */
+.corazonSonriente{
+   
+   height: 17rem !important;
+  padding-left: 5rem;
+
+ 
+}
+
+header p {
+  font-size: 1.2rem;
+  text-align: center;
+  font-weight: bold;
+  
+}
+
+#habitos h3{
+  text-align: center;
+  font-size: 50px;
+}
+
+#habitos p{
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.divHabitos{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.bigApple {
+  height: 19rem;
+padding-left: 34rem;
+
+
+}
+
+/* awdawdadad*/
+
+#habitos ul li {
+  font-weight: bold;
+  color: white;
+  background-color: #544F44;
+  padding: 1rem;
+  list-style: none;
+}
+
+#filosofia div{
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 5rem;
+padding: 8rem;
+}
+
+.zanamun{
+  height: 25rem;
+  /* border: 2px solid green; */
+  padding: -500px;
+  /* background-color: aqua; */
+}
+
+#filosofia p {
+  text-align: center;
+   font-size: 0.9rem;
+   font-weight: bold;
+   /* background-color: pink; */
+
+}
+
+.gotovich{
+  height: 25rem;
+  /* border: 2px solid green; */
+  /* background-color: orange; */
+}
+
+#filosofia h3{
+  text-align: center;
+  font-size: 4rem;
+}
+
+
+
+.video-home iframe{
+/* padding-top: 10rem ;
+border: 10px solid green; */
+padding-top: 3rem;
+width: 100%;
+height: 600px;
+border: initial;
+}
+
+
+.textovich{
+  display: flexbox;
+  justify-content: space-between; 
+  align-items: center;
+}
+
+#testimonios h3 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+#testimonios p {
+   height: 6.3rem;
+   width: 60rem;
+   padding-left: 2rem;
+   margin-left: 8rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+   background-color: #544F44;
+   color: white;
+}
+
+.formulario{
+  margin-left: 3rem;
+  height: 52rem;
+  width: 80rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.corazao{
+  height: 15rem;
+  margin-right: 0.5rem;
+  
+}
+.corazao2{
+  height:15rem;
+ 
+}
+
+
+
+.contacto h3{
+    margin-top: 1rem;
+    font-weight: bold;
+     font-size: 50px;
+     text-align: center;
+     height: 1px;
+}
+
+.contacto h2{
+    text-transform: uppercase;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.contacto form {
+    background: black;
+    /* margin: auto; */
+    padding: 10px;
+    margin-top: 35px;
+    margin-bottom: 50px;
+    /* width: 800px; */
+    width: 500px;
+    /* border: 1px solid green; */
+    margin-left: 350px;
+}
+
+.contacto label{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+}
+
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+textarea {
+  width: 100%;
+  height: 300px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.send{
+    text-align: center;
+}
+
+.a{
+  width: 100%;
+  background-color: #605959;
+  color: white;
+  padding: 7px 8px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 1px;
+  cursor: pointer;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.iconits{
+  display: flexbox;
+  justify-content: center;
+
+}
+.sexo{
+    margin-top: 8px;
+}
+
+.mensaje{
+    margin-top: 8px;
+}
+
+.quiero{
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+
+
+  footer {
+    padding: 1rem;
+    background-color: #544F44;
+    border-radius: 5px;
+   border-style: solid;
+    
+  }
+
+  footer p {
+  color: white;
+  }
+
+  footer h3 {
+    color: white;
+  }
+
+
+  .iconits{
+
+  text-align: left;
+
+  }

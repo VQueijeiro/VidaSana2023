@@ -1,0 +1,294 @@
+
+
+body {
+    background-color: #C7B299 !important;
+
+
+    font-family: century Gothic;
+   
+}
+
+
+header nav ul {
+	display: flex;
+	justify-content: space-between;
+}
+
+header nav ul li {
+	list-style: none;
+	color: white;
+
+}
+
+header nav ul li a {
+	text-decoration: none;
+	font-size: 10px !important;
+
+
+
+}
+
+.divCorazon{
+    /* display: flex; */
+    /* align-items: center; */
+    height: 1rem;
+  }
+
+header h1 {
+	color: white;
+	font-size: 3rem;
+	text-align: center;
+		padding-left: 15px;
+	margin-bottom: 50px;	
+}
+  
+
+header h2{
+	color: white;
+	font-size: 1.9rem;
+	padding-left: 3rem;
+	margin-top: 70px;
+}
+
+.corazonSonriente{
+   
+	height: 17rem;
+   /* border: 1px solid green; */
+   margin-top: 20px;
+   margin-left: 9px;
+
+   
+ }
+
+
+
+header p {
+	font-size: 1rem;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 300px;
+	
+  }
+  
+
+  #habitos h3{
+	text-align: center;
+	font-size: 40px;
+  }
+
+  #habitos p{
+	text-align: center;
+	font-size: 1rem;
+	font-weight: bold;
+  }
+
+  #habitos ul li {
+	font-weight: bold;
+	color: white;
+	background-color: #544F44;
+	padding: 0.1rem;
+	list-style: none;
+	width: 250px;
+	margin-left: -15px;
+  }
+  
+
+  .divHabitos{
+	/* display: flex; */
+	align-items: center;
+	/* justify-content: space-between; */
+	/* border: 10px solid rgb(255, 0, 0); */
+	height: 500px;
+	margin-right: -60px;
+  }
+  
+.contenedorLista1{
+	margin-right: -60px;
+	
+}
+
+.bigApple {
+	height: 11rem;
+  padding-left: 3.4rem;
+  /* border: 5px solid green; */
+  margin-top: 900px;
+  }
+  
+
+
+#filosofia h3{
+  text-align: center;
+  font-size: 2.9rem;
+}
+
+.zanamun{
+	height: 15rem;
+	/* border: 2px solid green; */
+	margin-left: 80px;
+	/* background-color: aqua; */
+  }
+  
+
+
+#filosofia p {
+	text-align: center;
+	 font-size: 1rem;
+	 font-weight: bold;
+	 /* border: 1px solid green; */
+	
+	}
+
+.gotovich{
+		height: 9rem;
+		/* border: 2px solid green; */
+		/* background-color: orange; */
+		margin-left: 80px;
+	  }
+	  
+
+   .video-home iframe{
+	/* padding-top: 10rem ;
+	border: 10px solid green; */
+	padding-top: 1rem;
+	width: 100%;
+	height: 200px;
+	border: initial;
+	}
+	
+#testimonios h3 {
+		text-align: center;
+		font-size: 2rem;
+	  }
+	 
+	  
+#testimonios p {
+		height: 13rem;
+		width: 15rem;
+		padding-left: 1rem;
+		margin-left: 1rem;
+	   font-size: 0.9rem;
+	   font-weight: bold;
+		background-color: #544F44;
+		color: white;
+		display: flexbox;
+	 }
+
+.textovich{
+	
+		/* border: 5px solid green; */
+		height: 400px;
+	
+	  }
+
+
+.contacto{
+	margin-top: 300px;
+}
+
+.contacto h3{
+		margin-top: 1rem;
+		font-weight: bold;
+		 font-size: 35px;
+		 text-align: center;
+		 height: 1px;
+	}
+	
+	.contacto h2{
+		text-transform: uppercase;
+		font-size: 50px;
+		margin-top: 50px;
+
+	}
+
+	.contacto form {
+		background: black;
+		/* margin: auto; */
+		margin-left: 44px;
+		margin-top: 60px;
+		margin-bottom: 50px;
+		/* width: 800px; */
+		width: 195px;
+		border: 10px solid rgb(0, 0, 0);
+	}
+	
+	.contacto label{
+		font-weight: bold;
+		text-transform: uppercase;
+		color: white;
+	}
+	
+	input[type=text] {
+		width: 100%;
+		padding: 12px 20px;
+		margin: 8px 0;
+		display: inline-block;
+		border: 1px solid #ccc;
+		border-radius: 4px;
+		box-sizing: border-box;
+	}
+	
+	textarea {
+	  width: 100%;
+	  height: 300px;
+	  padding: 12px 20px;
+	  margin: 8px 0;
+	  display: inline-block;
+	  border: 1px solid #ccc;
+	  border-radius: 4px;
+	  box-sizing: border-box;
+	}
+	
+	.send{
+		text-align: center;
+	}
+	
+	.a{
+	  width: 100%;
+	  background-color: #605959;
+	  color: white;
+	  padding: 7px 8px;
+	  margin: 8px 0;
+	  border: none;
+	  border-radius: 1px;
+	  cursor: pointer;
+	  font-size: 20px;
+	  text-transform: uppercase;
+	  font-weight: bold;
+	  text-align: center;
+	  text-decoration: none;
+	  border-radius: 10px;
+	}
+
+	.sexo{
+		margin-top: 8px;
+	}
+	
+	.mensaje{
+		margin-top: 8px;
+	}
+	
+	.quiero{
+		text-align: center;
+		margin-top: 8px;
+		margin-bottom: 8px;
+		font-weight: bold;
+	}
+	
+	
+
+	footer {
+		margin-top: 10px;
+		padding: 1rem;
+		background-color: #544F44;
+		border-radius: 5px;
+	   border-style: solid;
+	  }
+
+	  footer p {
+		color: white;
+		}
+	  
+		footer h3 {
+		  color: white;
+		}
+	  
